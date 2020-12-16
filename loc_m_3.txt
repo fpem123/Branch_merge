@@ -1,2 +1,4 @@
 loc_m_3.txt
 master에서 생성.
+
+clone 레파짓토리의 other가 수정.

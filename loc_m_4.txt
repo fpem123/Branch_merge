@@ -1,0 +1,2 @@
+loc_m_4.txt
+clone 레파짓토리의 other가 생성.
