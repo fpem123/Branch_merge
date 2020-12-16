@@ -1,2 +1,4 @@
 loc_m_3.txt
-sub 브랜치에서 생성됨.
+sub 와 master에서 생성.
+
+sub에서 수정됨.
