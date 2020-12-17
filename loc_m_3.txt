@@ -1,2 +1,6 @@
 loc_m_3.txt
-master에서 생성.
+sub 와 master에서 생성.
+
+sub에서 수정됨.
+
+clone 레파짓토리의 other가 수정.
